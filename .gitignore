@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 编辑器
+.vscode/
+.idea/
+
+# 临时产物
+*.log
+_preview.png
+_ring_check.png
+_core_check.png
+_badge_check.png
+_composite_check.png
